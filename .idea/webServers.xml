@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c30c9772-9d20-49eb-a801-9eaafb3c7f2f" name="mju_server">
+        <fileTransfer rootFolder="/home/huangt/Ht" accessType="SFTP" sshConfigId="315c3ef2-adf7-44b0-b82d-acf7e0079ccc" sshConfig="huangt@172.16.220.15:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

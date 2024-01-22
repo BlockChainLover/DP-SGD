@@ -1,0 +1,9 @@
+usage: main.py [-h] [--dataset DATASET] [--resume] [--sess SESS] [--seed SEED]
+               [--weight_decay WEIGHT_DECAY] [--n_training N_TRAINING]
+               [--batchsize BATCHSIZE] [--n_epoch N_EPOCH]
+               [--momentum MOMENTUM] [--time TIME] [--save_dir SAVE_DIR]
+               [--private] [--pcdp PCDP] [--spar SPAR] [--clip CLIP] [--lr LR]
+               [--eps EPS] [--delta DELTA] [--proj_k PROJ_K] [--real_labels]
+               [--aux_dataset AUX_DATASET] [--aux_data_size AUX_DATA_SIZE]
+               [--aux_batch_size AUX_BATCH_SIZE]
+main.py: error: argument --time: expected one argument
